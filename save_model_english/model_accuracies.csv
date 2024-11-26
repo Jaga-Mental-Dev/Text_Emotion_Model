@@ -1,0 +1,5 @@
+Model,Accuracy
+Random Forest,0.89
+Logistic Regression,0.87
+Support Vector Machine,0.87
+Decision Tree,0.86
